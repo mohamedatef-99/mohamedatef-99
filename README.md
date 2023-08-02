@@ -6,6 +6,6 @@
 
 🌱 I'm always eager to learn and collaborate with fellow developers. Open to exciting opportunities and new projects!
 
-📫 Let's connect: mohammed.atef.saif@gmail.com | [[LinkedIn Profile]](https://www.linkedin.com/in/mohamed-atef-/) | [[Personal Website (if applicable)]](https://portfolio-v08.vercel.app/)https://portfolio-v08.vercel.app/
+📫 Let's connect: mohammed.atef.saif@gmail.com | https://www.linkedin.com/in/mohamed-atef-/ | https://portfolio-v08.vercel.app/
 
 Happy coding! 😄
