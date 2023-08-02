@@ -1,4 +1,3 @@
-![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 Hi👋 , I'm Mohamed Atef, a Junior Full-stack Developer with a focus on Angular and Node.js.
 
 💻 Skilled in front-end development, I love building dynamic and responsive user interfaces using Angular, and crafting robust server-side applications with Node.js.
