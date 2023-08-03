@@ -1,4 +1,5 @@
-Hi👋 , I'm Mohamed Atef, a Junior Full-stack Developer with a focus on Angular and Node.js.
+                                                            Hi👋 , I'm Mohamed Atef 
+A Junior Full-stack Developer with a focus on Angular and Node.js.
 
 💻 Skilled in front-end development, I love building dynamic and responsive user interfaces using Angular, and crafting robust server-side applications with Node.js.
 
