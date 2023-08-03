@@ -1,13 +1,13 @@
 #                                                            Hi👋 , I'm Mohamed Atef 
 A Junior Full-stack Developer with a focus on Angular and Node.js.
 
-💻 Skilled in front-end development, I love building dynamic and responsive user interfaces using Angular, and crafting robust server-side     applications with Node.js.
+💻 Skilled in front-end development, I love building dynamic and responsive user interfaces using Angular, and crafting robust server-side applications with Node.js.
 
 🚀 Passionate about creating innovative and user-friendly web applications, I enjoy bringing ideas to life through coding.
 
-🌱 Currently diving deep into the world of web development, I love working with modern technologies and exploring new frameworks and     libraries.
+🌱 Currently diving deep into the world of web development, I love working with modern technologies and exploring new frameworks and libraries.
 
-📚 Continuously learning and staying up-to-date with the latest web technologies, I am eager to contribute to exciting open-source projects     and collaborate with fellow developers.
+📚 Continuously learning and staying up-to-date with the latest web technologies, I am eager to contribute to exciting open-source projects and collaborate with fellow developers.
 
 📫 Let's connect: mohammed.atef.saif@gmail.com | https://www.linkedin.com/in/mohamed-atef-/ | https://portfolio-v08.vercel.app/
 
