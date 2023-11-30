@@ -71,6 +71,6 @@
 
 ### Get in Touch 📫
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-atef-/) - [Email](mohammed.atef.saif@gmail.com) or [Portfolio](https://portfolio-v08.vercel.app/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-atef-/) - [Email](mailto:mohammed.atef.saif@gmail.com) or [Portfolio](https://portfolio-v08.vercel.app/)!
 
 Happy coding! 😄
