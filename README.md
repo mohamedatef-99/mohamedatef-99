@@ -70,6 +70,28 @@
 
 ### Get in Touch 📫
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-atef-/) - [Email](mailto:mohammed.atef.saif@gmail.com) or [Portfolio](https://portfolio-v08.vercel.app/)!
+<h3 align="left">Connect with Me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" alt="Portfolio">
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+  </a>
+  <a href="https://twitter.com/your-twitter-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter">
+  </a>
+</div>
+
+
+
+
+
+
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-atef-/) - [Email](mailto:mohammed.atef.saif@gmail.com) or [Portfolio](https://portfolio-v08.vercel.app/)!
 
 Happy coding! 😄
