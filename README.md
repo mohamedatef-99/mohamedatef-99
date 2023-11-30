@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-atef-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg"     alt="https://www.linkedin.com/in/mohamed-atef-/" height="30" width="40" /></a>
   <a href="https://twitter.com/tef3_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="tef3_99" height="30" width="40" /></a>
   <a href="mailto:mohammed.atef.saif@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+    <img width="40" height="30" src="https://img.icons8.com/clouds/100/new-post.png" alt="new-post"/>
   </a>
   <a href="https://portfolio-v08.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" alt="Portfolio">
