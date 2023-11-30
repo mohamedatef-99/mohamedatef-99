@@ -40,7 +40,7 @@
 ### Get in Touch 📫
 
 <div align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-atef-/" target="blank">
+  <a href="https://www.linkedin.com/in/mohamed-atef-/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-atef-/" height="30" width="40" />
   </a>
   <a href="https://twitter.com/tef3_99" target="blank">
