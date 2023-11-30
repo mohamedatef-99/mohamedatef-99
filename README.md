@@ -54,9 +54,5 @@
   </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/mohamedatef-99">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedatef-99&theme=2077" height="180em" />
-</div>
   
 Happy coding! 😄
