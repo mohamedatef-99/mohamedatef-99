@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef-99&layout=compact&theme=" alt=mohamedatef-99 />
+
 
 ### Get in Touch 📫
 
@@ -54,5 +54,9 @@
   </a>
 </div>
 
-
+<div align="center">
+<a href="https://github.com/mohamedatef-99">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedatef-99&theme=2077" height="180em" />
+</div>
+  
 Happy coding! 😄
