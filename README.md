@@ -53,6 +53,6 @@
    <img align="center" width="50" height="50" src="https://img.icons8.com/clouds/100/resume.png" alt="Portfolio"/>
   </a>
 </div>
-
+![Pro](https://img.shields.io/badge/-PRO-purple)
   
 Happy coding! 😄
