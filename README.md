@@ -49,7 +49,7 @@
   <a href="mailto:mohammed.atef.saif@gmail.com" target="_blank">
     <img align="center" width="50" height="50" src="https://img.icons8.com/clouds/100/new-post.png" alt="Email"/>
   </a>
-  <a href="https://portfolio-v08.vercel.app/" target="_blank">
+  <a href="https://v2mohamedatef.vercel.app/" target="_blank">
    <img align="center" width="50" height="50" src="https://img.icons8.com/clouds/100/resume.png" alt="Portfolio"/>
   </a>
 </div>
