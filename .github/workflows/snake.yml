@@ -11,13 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         with:
           github_user_name: mohamedatef-99
           outputs: dist/snake.svg
 
-      - name: Upload Snake
-        uses: actions/upload-artifact@v2
+      - name: Push Snake Animation to the output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: snake
-          path: dist/snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          destination_dir: output
