@@ -59,6 +59,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/mohamedatef-99/mohamedatef-99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mohamedatef-99/mohamedatef-99/raw/output/github-contribution-grid-snake.svg)
+
 
 ###
