@@ -43,9 +43,6 @@
   <a href="https://www.linkedin.com/in/mohamed-atef-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/tef3_99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
   <a href="mailto:mohammed.atef.saif@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
@@ -59,7 +56,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/mohamedatef-99/mohamedatef-99/raw/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/mohamedatef-99/mohamedatef-99/output/snake.svg" alt="Snake animation" />
 
 
 ###
