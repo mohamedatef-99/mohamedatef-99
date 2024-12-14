@@ -56,7 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohamedatef-99/mohamedatef-99/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://raw.githubusercontent.com/mohamedatef-99/mohamedatef-99/output/github-contribution-grid-snake-dark.svg)
 
 ###
