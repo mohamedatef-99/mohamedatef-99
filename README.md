@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mohamed Atef and I'm a Software Developer</h2>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <h2>Hi 👋! My name is Mohamed Atef and I'm a Software Developer</h2>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRodHNtNjl0b2p5Ym5yYjllYThqdzUwZXZkOWQ3MXE5Z3Iwd2RkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="animated gif" height="80" style="margin-left: 10px;" />
+</div>
+
 
 ###
 
@@ -47,10 +51,6 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRodHNtNjl0b2p5Ym5yYjllYThqdzUwZXZkOWQ3MXE5Z3Iwd2RkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
