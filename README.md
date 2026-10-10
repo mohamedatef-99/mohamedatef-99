@@ -1,61 +1,119 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <h2>Hi 👋! My name is Mohamed Atef and I'm a Software Developer</h2>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRodHNtNjl0b2p5Ym5yYjllYThqdzUwZXZkOWQ3MXE5Z3Iwd2RkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="animated gif" height="80" style="margin-left: 10px;" />
-</div>
+<h1 align="center">Hi, I'm Mohamed Atef 👋</h1>
 
+<h3 align="center">Full-Stack Software Engineer | Angular & .NET</h3>
 
-###
+<p align="center">
+  Building production web applications with Angular, TypeScript, C#, and .NET.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedatef-99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=mohamedatef-99&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <a href="https://www.mohamedatef.tech/">Portfolio</a>
+  •
+  <a href="https://www.linkedin.com/in/mohamed-atef-/">LinkedIn</a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+## 👨‍💻 About Me
 
-###
+I'm a **Full-Stack Software Engineer with 3+ years of professional experience** building and maintaining production web applications.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-atef-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mohammed.atef.saif@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+My strongest area is **Angular and frontend engineering**, alongside hands-on backend experience with **C# and .NET**.
 
-###
+My professional experience includes:
 
-<br clear="both">
+- Flight booking and airline distribution platforms
+- Enterprise Angular applications
+- .NET backend features and REST APIs
+- Real-time dashboards and operational systems
+- Payment integrations
+- Arabic / English applications with RTL support
+- Legacy AngularJS modernization
+- Unit and integration testing
 
-![Snake animation](https://raw.githubusercontent.com/mohamedatef-99/mohamedatef-99/output/github-contribution-grid-snake-dark.svg)
+---
 
-###
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+**Angular · TypeScript · JavaScript · RxJS · Angular Signals · Tailwind CSS · Bootstrap · Ionic · RTL/i18n**
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" alt="Backend technologies" />
+</p>
+
+**C# · .NET 8 · ASP.NET Core · REST APIs · Entity Framework Core · MySQL · LINQ**
+
+---
+
+## 💼 Professional Work
+
+> 🔒 These are professional projects. Source code is private and belongs to the respective organizations.
+
+### ✈️ Fly WT
+**Bilingual Flight Booking Platform**
+
+Primary frontend contributor on an Angular-based flight booking platform covering:
+
+`Flight Search` `Booking` `Payments` `RTL/i18n` `CMS` `Reusable UI`
+
+---
+
+### ✈️ Flight Engine
+**IATA NDC Flight Distribution Platform**
+
+Contributed to both Angular frontend and .NET backend features.
+
+`Angular` `.NET 8` `ASP.NET Core` `REST APIs` `Entity Framework Core` `MySQL` `Testing`
+
+---
+
+### 📊 Money Collector
+**Real-Time Agency Operations Platform**
+
+Built frontend functionality for dashboards, wallets, reports, and field operations.
+
+`Angular 18` `Tailwind CSS` `SignalR` `Google Maps`
+
+---
+
+### 🔄 NDC Uplift
+**Angular Platform Modernization**
+
+Modernized a legacy AngularJS airline-distribution frontend using modern Angular and reusable UI patterns.
+
+---
+
+## 🤖 AI-Assisted Engineering
+
+I use AI tools as part of a structured engineering workflow:
+
+**Analyze → Specify → Plan → Implement → Test → Review → Validate**
+
+Tools:
+
+**Claude Code · OpenAI Codex · ChatGPT**
+
+AI assists the workflow, while implementation decisions, review, testing, and final validation remain engineering responsibilities.
+
+---
+
+## 🌱 Currently Growing In
+
+`Advanced .NET` `System Design` `Software Architecture` `Azure` `DevOps`
+
+`AI-Enabled Applications` `RAG` `Agents` `MCP`
+
+---
+
+## 📫 Connect
+
+🌐 [Portfolio](https://www.mohamedatef.tech/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mohamed-atef-/)
